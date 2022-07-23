@@ -5,4 +5,8 @@
 //  Created by 武久　直幹 on 2022/07/15.
 //
 
-import Foundation
+import UIKit
+
+class GraphViewController: UIViewController {
+    
+}
